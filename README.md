@@ -1,6 +1,6 @@
 # react_native_example
-# React native app example
-# Created by me from scratch during one month in 2018
+# React native app example with GraphQL
+# Created by me from scratch during two month in 2018
 
 # https://www.youtube.com/watch?v=PYpThTPcDHQ
 # 
